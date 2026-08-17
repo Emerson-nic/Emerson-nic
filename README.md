@@ -45,6 +45,7 @@
       Modelado de transmisión macrofinanciera (en desarrollo activo).
     </li>
   </ul>
+</details>
 
 ---
 
