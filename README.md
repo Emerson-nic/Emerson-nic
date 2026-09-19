@@ -8,9 +8,6 @@
   <img src="avatar/icon_kuin_frog-circle.png" width="80" alt="Kuin" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Applied+Macroeconometrics;Time+Series+%26+Bayesian+Modeling;Geospatial+Data+Analysis;R+%7C+Python+%7C+LaTeX" alt="Typing SVG"/>
-</p>
 
 ---
 
@@ -20,10 +17,10 @@
   Applied BVECM/BVAR framework | Published / In Press in *Nexo Revista Científica*.
 
 * [**Road Infrastructure and VIIRS Satellite Data**](https://github.com/Emerson-nic/road-infrastructure-nicaragua-viirs)  
-  Preprint available on Zenodo (under review).
+  Preprint available on Zenodo.
 
-* [**Spillover Effects in Nicaragua**](https://github.com/Emerson-nic/Spillover-Nicaragua)  
-  Macrofinancial transmission modeling (in active development).
+* [**Spillover Effects in Nicaragua**](https://github.com/Emerson-nic/Dengue-Nicaragua-Model)  
+  Impact of climatic variables on dengue (in active development).
 
 ---
 
@@ -41,8 +38,8 @@
       Preprint disponible en Zenodo (en revisión).
     </li>
     <li>
-      <a href="https://github.com/Emerson-nic/Spillover-Nicaragua"><strong>Efectos de Desbordamiento (Spillover) en Nicaragua</strong></a><br/>
-      Modelado de transmisión macrofinanciera (en desarrollo activo).
+      <a href="https://github.com/Emerson-nic/Dengue-Nicaragua-Model"><strong>Efectos de Desbordamiento (Spillover) en Nicaragua</strong></a><br/>
+      Impacto de las variables climáticas en el dengue (en desarrollo activo).
     </li>
   </ul>
 </details>
