@@ -19,7 +19,7 @@
 * [**Road Infrastructure and VIIRS Satellite Data**](https://github.com/Emerson-nic/road-infrastructure-nicaragua-viirs)  
   Preprint available on Zenodo.
 
-* [**Spillover Effects in Nicaragua**](https://github.com/Emerson-nic/Dengue-Nicaragua-Model)  
+* [**Effect of climate on dengue in Nicaragua**](https://github.com/Emerson-nic/Dengue-Nicaragua-Model)  
   Impact of climatic variables on dengue (in active development).
 
 ---
@@ -38,7 +38,7 @@
       Preprint disponible en Zenodo (en revisión).
     </li>
     <li>
-      <a href="https://github.com/Emerson-nic/Dengue-Nicaragua-Model"><strong>Efectos de Desbordamiento (Spillover) en Nicaragua</strong></a><br/>
+      <a href="https://github.com/Emerson-nic/Dengue-Nicaragua-Model"><strong>Efecto del clima en el dengue en Nicaragua</strong></a><br/>
       Impacto de las variables climáticas en el dengue (en desarrollo activo).
     </li>
   </ul>
